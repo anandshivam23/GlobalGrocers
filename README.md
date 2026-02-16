@@ -45,3 +45,10 @@ Visit http://localhost/globalgrocers
 📄 License
 This project is for educational purposes only.
 
+<img width="1111" height="704" alt="Screenshot 2026-02-16 222917" src="https://github.com/user-attachments/assets/1b8575fe-11b8-40d7-8cd4-71829894baa0" />
+
+<img width="1088" height="681" alt="Screenshot 2026-02-16 222932" src="https://github.com/user-attachments/assets/b842fe47-128a-4f4e-803f-7dd9e4895a34" />
+
+
+<img width="1076" height="688" alt="Screenshot 2026-02-16 222945" src="https://github.com/user-attachments/assets/f3f9d993-ffd5-405c-8831-87a6d08c1f42" />
+
